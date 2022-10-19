@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/>
+    <title> Tabela </title>
+</head>
+<header><h1>Tabela</h1></header>
+<body>
+    <table border="1">
+    </tr>
+        <th>Nome</th>
+        <th>Telefone</th>
+        <th>Email</th>
+    </tr>
+    <tr>
+        <td>Alice Ferreira</td>
+        <td>(86) 3429-1434</td>
+        <td>aliceferreira@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Marcos Rodrigues</td>
+        <td>(81) 3564-5444</td>
+        <td>marcorodri@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Amanda Carneiro</td>
+        <td>(83) 3898-2417</td>
+        <td>Amaneiro@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Luis Ramos</td>
+        <td>(79) 2354-6726</td>
+        <td>LuRamos@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Luhan Dias</td>
+        <td>(48) 32271725</td>
+        <td>handiaslu@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Jessica Barros</td>
+        <td>(87) 3733-7432</td>
+        <td>jessicaba865@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Anderson</td>
+        <td>(84) 2285-9524</td>
+        <td>anderson@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Camila</td>
+        <td>(86) 2191-0673</td>
+        <td>camilaa@yahoo.com.br</td>
+    </tr>
+    <tr>
+        <td>Gustavo lima</td>
+        <td>(85)2277-7257</td>
+        <td>gustavinhmilgrau@gamil.com</td>
+    </tr>
+    <tr>
+        <td>Valesca</td>
+        <td>(33) 3370-2821</td>
+        <td>valescaribeiro@gmail.com</td>
+    </tr>
+</table>
+    
+</body>
